@@ -1,0 +1,21 @@
+ body{
+      font: 20px, Arial sans-serif;
+ }
+
+.navbar {
+    background-color:#4B8A08;
+}
+
+.quemsomos{
+    background-color: blue;
+color:white
+}
+    
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.Parceiro{
+    background-color: blueviolet;
+}
